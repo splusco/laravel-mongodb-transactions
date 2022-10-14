@@ -19,12 +19,7 @@
     "autoload": {
         "psr-4": { "Zs\\": "src/" }
     },
-    "repositories": {
-        "packagist": {
-            "type": "composer",
-            "url": "https://mirrors.aliyun.com/composer/"
-        }
-    },
+
     "extra": {
         "laravel": {
             "providers": [
