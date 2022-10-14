@@ -1,17 +1,17 @@
 {
-    "name": "salvation/laravel-mongodb-transactions",
+    "name": "splus/laravel-mongodb-transactions",
     "description": "Extend Jenssegers/laravel-mongodb to support transaction function",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Salvation Arinze",
-            "email": "modernbabbage@gmail.com"
+            "name": "tuan tran",
+            "email": "splus.codes@gmail.com"
         }
     ],
     "minimum-stability": "dev",
     "require": {
-        "jenssegers/mongodb": "3.8.x"
+        "jenssegers/mongodb": ">=3.9.x"
     },
     "require-dev": {
         "php": ">=7.2"
